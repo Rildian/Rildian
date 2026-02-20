@@ -5,7 +5,7 @@ I am fascinated by technology and i am obsessed in converting (almost) everythin
 ---
 
 <p align="center">
-  <img src="assets/a2_sword.gif" alt="My beloved A2" width="400px">
+  <img src="assets/a2_happy.gif" alt="My beloved A2 (when things did not go south)" width="400px">
 </p>
 
 --- 
@@ -24,12 +24,6 @@ I am fascinated by technology and i am obsessed in converting (almost) everythin
 * Building AI agents at **Jus Digital**
 * Converting complex AI logic into predictable, production-ready pipelines.
 * Enhancing my skills at Game Development and Computer Graphics in my free time.
-
---- 
-
-<p align="center">
-  <img src="assets/a2_sword.gif" alt="My beloved A2" width="400px">
-</p>
 
 --- 
 
