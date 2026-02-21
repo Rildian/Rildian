@@ -1,6 +1,6 @@
 **Data Engineering & AI Developer**
 
-I am fascinated by technology and i am obsessed in converting (almost) everything in previsible scalable system. Currently pursuing Bachelor of Computer Science at Federal University Of Ceará. 
+I am fascinated by technology and i am obsessed in converting (almost) everything in a previsible and scalable system. Currently pursuing Bachelor of Computer Science at Federal University Of Ceará. 
 
 ---
 
