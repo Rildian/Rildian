@@ -28,4 +28,4 @@ I am fascinated by technology and i am obsessed in converting (almost) everythin
 --- 
 
 ### Connect w/ me! I don't bite
-[LinkedIn](https://www.linkedin.com/in/rildian-beserra/) / [Email](mailto:rildian.nbeserra@gmail.com) 
+[LinkedIn](https://www.linkedin.com/in/rildian-beserra/) / [Email](mailto:rildian.nbeserra@gmail.com) / [Codeberg](https://codeberg.org/rildian)
