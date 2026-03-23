@@ -21,7 +21,7 @@ I am fascinated by technology and i am obsessed in converting (almost) everythin
 * **Tools:** Linux, Bash, Git, Gitlab, Docker, Amazon EC2, Amazon S3
 
 ### Current Focus
-* Building AI agents at **Jus Digital**
+* Building AI agents and complex systms at **Hug Labs**
 * Converting complex AI logic into predictable, production-ready pipelines.
 * Enhancing my skills at Game Development and Computer Graphics in my free time.
 
