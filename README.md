@@ -1,4 +1,4 @@
-**Data Engineering & AI Developer**
+**Software Engineer**
 
 I am fascinated by technology and i am obsessed in converting (almost) everything in a previsible and scalable system. Currently pursuing Bachelor of Computer Science at Federal University Of Ceará. 
 
@@ -15,14 +15,15 @@ I am fascinated by technology and i am obsessed in converting (almost) everythin
 * [Bash Scripting Automations](https://github.com/Rildian/bash-scripting)
 
 ### Technical Stack
-* **Languages:** Python, Java, C/C++, Julia and TypeScript
-* **AI & Data Frameworks:** LangChain, LangGraph, Apache Airflow, Apache Spark, Scikit-learn, Pandas, Numpy
+* **Languages:** Python, PHP, Java, C++, Julia and TypeScript
+* **AI & Data Frameworks:** LangChain, LangGraph, Laravel, React, Apache Airflow, Apache Spark, Scikit-learn, Pandas, Numpy
 * **Backend:** FastAPI, PostgreSQL, MongoDB, Appwrite, APIs REST, WebHooks
 * **Tools:** Linux, Bash, Git, Gitlab, Docker, Amazon EC2, Amazon S3
 
 ### Current Focus
 * Building AI agents and complex systms at **Hug Labs**
 * Converting complex AI logic into predictable, production-ready pipelines.
+* Building expertise at low level, specially in IoT
 * Enhancing my skills at Game Development and Computer Graphics in my free time.
 
 --- 
